@@ -8,3 +8,4 @@ eleventyNavigation:
 # Welcome
 
 This page is UnDeR CoNsTrUcTiOn!
+Hello, world.
