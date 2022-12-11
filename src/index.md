@@ -10,4 +10,4 @@ eleventyNavigation:
 This page is UnDeR CoNsTrUcTiOn!
 Hello, world.
 
- ![alt](src/lionpriest.png)
+{% image "./src/assets/lionpriest.png", "lion priest of istaroth" %}
