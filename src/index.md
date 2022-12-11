@@ -10,4 +10,4 @@ eleventyNavigation:
 This page is UnDeR CoNsTrUcTiOn!
 Hello, world.
 
-![alt text](./lionpriest.png "lion priest")
+'<img src="lionpriest.png" alt="lion priest">'
