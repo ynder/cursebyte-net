@@ -10,4 +10,4 @@ eleventyNavigation:
 This page is UnDeR CoNsTrUcTiOn!
 Hello, world.
 
- ![alt](cursebyte-net/lionpriest.png)
+ ![alt](src/lionpriest.png)
