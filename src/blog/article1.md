@@ -2,9 +2,9 @@
 layout: article
 title: First Blog Post Test
 date: 2022-12-11
-category: "meta" "map"
+category: "meta","map"
 ---
 
 All right. Here's a map.
 
-{% image ./src/assets/glistangcanyon.png, "A hex map", "image", [300, 600] %}
+{% image ./src/assets/glistangcanyon.png, "A hex map" %}
