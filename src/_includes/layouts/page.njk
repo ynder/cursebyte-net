@@ -13,7 +13,9 @@
   <body>
     {% include "../components/header.njk" %}
     <main role="main">
+      {% image "./src/lionpriest.png", "lionpriest" %}
       {{ content | safe }}
+      }
     </main>
     {% include "../components/footer.njk" %}
   </body>
