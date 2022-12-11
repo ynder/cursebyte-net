@@ -10,4 +10,4 @@ eleventyNavigation:
 This page is UnDeR CoNsTrUcTiOn!
 Hello, world.
 
- <img src="lionpriest.png" alt="lion priest"> 
+ ![alt](../assets/lionpriest.png)
